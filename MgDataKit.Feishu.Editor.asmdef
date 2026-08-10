@@ -1,0 +1,19 @@
+{
+    "name": "MgDataKit.Feishu.Editor",
+    "rootNamespace": "MgDataKit.Editor",
+    "references": [
+        "MgDataKit.Core",
+        "MgDataKit.Core.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
